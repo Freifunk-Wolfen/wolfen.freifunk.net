@@ -8,6 +8,9 @@ Du kannst mit uns ab Besten über das [Forum] Kontakt aufnehmen.
 
 Du kannst im [Wiki] nachsehen, welche Schritte zum mitmachen nötig sind.
 
+---
+
+[![Build Status](https://travis-ci.org/Freifunk-Wolfen/wolfen.freifunk.net.svg?branch=master)](https://travis-ci.org/Freifunk-Wolfen/wolfen.freifunk.net)
 
 [Forum]: https://wolfennord.flarum.cloud/
 [Wiki]: https://wiki.freifunk.net/Wolfen:Hauptseite
