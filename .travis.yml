@@ -1,0 +1,5 @@
+language: ruby
+install: 
+  - gem install github-pages
+script:
+- jekyll build
