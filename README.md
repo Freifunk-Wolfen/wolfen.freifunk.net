@@ -1,4 +1,4 @@
-Die ist die Webseite der Freifunk-Gemeinschaft in Bitterfeld-Wolfen.
+Die ist die Webseite der Freifunk-Gemeinschaft in Bitterfeld-Wolfen. Wir stellen ein WLAN bereit, über das man frei miteinander Kommunizieren kann.
 
 ## Mitreden
 
