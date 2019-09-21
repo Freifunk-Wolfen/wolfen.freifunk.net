@@ -1,12 +1,12 @@
-Die ist die Webseite der Freifunk-Gemeinschaft in Bitterfeld-Wolfen. Wir stellen ein WLAN bereit, über das man frei miteinander Kommunizieren kann.
+Die ist die Webseite der Freifunk-Gemeinschaft in Bitterfeld-Wolfen. Wir stellen ein WLAN bereit, über das man frei miteinander kommunizieren kann.
 
 ## Mitreden
 
-Du kannst mit uns ab Besten über das [Forum] Kontakt aufnehmen.
+Du kannst mit uns gut über das [Forum] Kontakt aufnehmen.
 
 ## Mitmachen
 
-Du kannst im [Wiki] nachsehen, welche Schritte zum mitmachen nötig sind.
+Du kannst im [Wiki] nachsehen, welche Schritte zum Mitmachen nötig sind.
 
 ---
 
